@@ -1,0 +1,16 @@
+{
+  "title": "Waypoints",
+  "description": "An interactive maps website for searching and saving places.",
+  "domain": "creepers.cloud",
+  "subdomain": "waypoints",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/user82996",
+    "email": "vpscloud080@gmail.com",
+    "discord": "@shadowvoidmc"
+  },
+  "record": {
+    "CNAME": "mzhyidtnxjy6.id.wasmer.app"
+  },
+  "proxy": "false"
+}
